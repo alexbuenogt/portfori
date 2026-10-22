@@ -1,0 +1,6 @@
+PORTFÓLIO ALEX BUENO
+Abra index.html no navegador.
+WhatsApp principal: (43) 99663-0251.
+WhatsApp alternativo: (43) 92000-2387.
+Edite script.js para alterar contatos.
+Publique a pasta no GitHub Pages ou hospedagem.
